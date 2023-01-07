@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.section-1{
+
+}
+
+.main{
+    background-image: url(images/banner/banner3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+
+
+.main h1{
+   font-size: 62px;
+   color: aliceblue;
+   text-align: right;
+   padding-top: 30px;
+   padding-right: 150px;
+}
+.main p{
+
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: right;
+    margin-top: 20px;
+    color: aliceblue;
+    padding-right: 150px;
+
+}
+ .btn-primary{
+    font-size: 20px;
+    font-weight: 400px;
+    text-align: right;
+    margin-left: 1200px;
+    margin-top: 20px;
+    padding-right: 40px;
+    height: 70px;
+    width: 190px;
+    
+}
+
+    
